@@ -5,5 +5,5 @@ Courseload:
 1. [ECE212: Circuit Analysis](/ECE212/0_README.md)
 2. [ECE216: Signals and Systems](/ECE216/0_README.md)
 3. [ECE221: Electric and Magnetic Fields](/ECE221/0_README.md)
-4. ECE243: Computer Organization (no notes **yet**)
+4. ECE243: Computer Organization (no notes)
 5. ECE297: Software Design and Communication (no notes)
